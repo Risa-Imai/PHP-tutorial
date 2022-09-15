@@ -13,6 +13,15 @@
     echo $dynamite;
     echo "<br/>";
     echo $deku;
+    echo "<br/>";
+    echo "ここから６期以降";
+    echo "<br/>";
+    $dynamite = "大爆殺神ダイナマイト";
+    $deku = "デク";
+    echo $dynamite;
+    echo "<br/>";
+    echo $deku;
+    echo "<br/>";
   ?>
 </body>
 </html>
